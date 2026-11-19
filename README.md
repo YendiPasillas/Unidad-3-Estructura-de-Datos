@@ -1,2 +1,5 @@
-# Unidad-3-Estructura-de-Datos
-Yendi Pamela Peña Pasillas 25410133
+# Proyecto 1
+Yendi Pamela Peña Pasillas
+25410133
+Ingenieria en sistemas computacionales
+Estructura de datos
